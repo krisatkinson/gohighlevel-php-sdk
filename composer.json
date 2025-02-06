@@ -1,5 +1,5 @@
 {
-    "name": "janmencl/gohighlevel-php",
+    "name": "janmencl/gohighlevel-php-sdk",
     "description": "php sdk for gohighlevel api",
     "keywords": ["php", "ghl","gohighlevel","api","skd", "package"],
     "license": "MIT",
