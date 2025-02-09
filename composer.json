@@ -3,6 +3,7 @@
     "description": "php sdk for gohighlevel api",
     "keywords": ["php", "ghl","gohighlevel","api","skd", "package"],
     "license": "MIT",
+    "version": "v1.0.0",
     "authors": [
         {
             "name": "Mushe Abdul-Hakim",
